@@ -1,5 +1,5 @@
-HybridHomestead.Life Support
-Frequently Asked Questions
+# HybridHomestead.Life Support
+## Frequently Asked Questions
 Q: What is HybridHomestead.Life?
 A: HybridHomestead.Life is an app that connects sustainable gardening with allergen-friendly cooking. Grow what you eat, eat what you grow!
 Q: Do I need an account?
