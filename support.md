@@ -1,12 +1,12 @@
 # HybridHomestead.Life Support
 ## Frequently Asked Questions
-Q: What is HybridHomestead.Life?
+## Q: What is HybridHomestead.Life?
 A: HybridHomestead.Life is an app that connects sustainable gardening with allergen-friendly cooking. Grow what you eat, eat what you grow!
-Q: Do I need an account?
+## Q: Do I need an account?
 A: Yes, you sign in with OAuth authentication using Microsoft Entra ID. No passwords to remember—just use your existing account.
-Q: How is my data protected?
+## Q: How is my data protected?
 A: We use industry-standard OAuth 2.0 authentication and all your data is stored securely on your device. We never share personal information with third parties.
-Q: How do I customize a recipe to my allergies?
+## Q: How do I customize a recipe to my allergies?
 A: Create your dietary profile with your allergies and restrictions. When you view a recipe, use the AI customization feature to adapt it to your needs while preserving the creator's style.
 Q: Can I export my grocery list?
 A: Yes! Generate a grocery list from your meal plan and export it to share or copy to your phone's notes app.
